@@ -1,0 +1,12 @@
+POST http://localhost:8484/videos
+Content-Type: application/json
+
+{
+  "title": "bynance",
+  "description": " SERVELESS",
+  "duration": 200
+}
+
+###
+
+GET http://localhost:8484/videos
